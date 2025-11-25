@@ -119,7 +119,6 @@ DTO: Data transfer objects for file operations
 
 📁 Project Structure Deep Dive
 Campus-Course-Record-Manager/
-
 ├── src/
 │   ├── edu/ccrm/
 │   │   ├── cli/           # Command-line interface
