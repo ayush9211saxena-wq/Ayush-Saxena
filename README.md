@@ -1,5 +1,4 @@
-# Ayush-Saxena
-Campus Course & Records Manager (CCRM)
+# Campus Course & Records Manager (CCRM)
 📋 Project Overview:
 A comprehensive console-based Java application for managing academic records, including students, courses, enrollments, and grading systems. Built with modern Java SE features, demonstrating OOP principles, design patterns, exception handling, Streams, recursion, and CLI workflows.
 
